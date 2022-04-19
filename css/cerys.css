@@ -13,11 +13,16 @@
 }
 
 .membershipadv{
-    background-color: bisque;
+    background-color: #9dd6d6;
+    border-bottom: 5px #dcf0f1;
     padding: 20px;
     margin-top: 20px;
     margin-bottom: 20px;
     
+}
+
+.type {
+    letter-spacing: 2px;
 }
 .contact-us {
     margin-top: 20px;
