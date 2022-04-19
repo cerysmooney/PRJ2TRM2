@@ -14,7 +14,7 @@
 
 .contact-us {
     padding: 70px 0px;
-    background: #795548;
+    background: #794848;
     
 }
 .section-title h2 {
@@ -22,7 +22,7 @@
     font-size: 30px;
     font-weight: normal;
     /* text-transform: uppercase; */
-    letter-spacing: 5px;
+    letter-spacing: 10px;
     border-bottom: 5px solid #ffadad;
     padding-bottom: 10px;
     display: inline-block;
