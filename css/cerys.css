@@ -42,10 +42,18 @@
 }
 
 .submitbutton {
-    padding-top: 30px;
+    padding-top: 20px;
 }
 
 .formspacing {
     padding:20px;
 
+}
+
+.formspacing1{
+    padding-top: 20px;
+}
+
+.formspacing2 {
+    padding-top: 20px;
 }
