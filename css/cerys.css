@@ -14,21 +14,21 @@
 
 .contact-us {
     padding: 70px 0px;
-    background: #794848;
+    background: #bfddc2;
     
 }
 .section-title h2 {
-    color: #ffffff;
+    color: #282828;
     font-size: 30px;
     font-weight: normal;
     /* text-transform: uppercase; */
     letter-spacing: 10px;
-    border-bottom: 5px solid #ffadad;
+    border-bottom: 5px solid #6fa384;
     padding-bottom: 10px;
     display: inline-block;
 }
 .section-title p {
-    color: #e8e8e8;
+    color: #282828;
     margin-bottom: 30px;
 }
 .contact-us input,
