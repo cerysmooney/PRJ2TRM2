@@ -11,3 +11,17 @@
     width:100%;
     position:absolute;
 }
+
+.contact-us {
+    padding: 70px 0px;
+    background: lightblue;
+}
+
+.membership {
+    justify-content: center;
+    padding: 20px;
+    align-items: center;
+    background: lightblue;
+    opacity: 2px;
+}
+
