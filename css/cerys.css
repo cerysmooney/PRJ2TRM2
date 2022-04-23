@@ -13,7 +13,7 @@
 }
 
 .membershipadv{
-    background-color: #9dd6d6;
+    background-color: #ccf0f0;
     border-bottom: 5px #dcf0f1;
     padding: 20px;
     margin-top: 20px;
@@ -28,7 +28,7 @@
     margin-top: 20px;
     margin-bottom: 20px;
     padding: 70px 0px;
-    background: #bfddc2;
+    background: #d0ead3;
     
 }
 .section-title h2 {
@@ -73,12 +73,7 @@
 }
 
 .bicycles{
-    background-color: #eaeaea;
-    border-bottom: 5px #dcf0f1;
-    padding: 20px;
-    margin-top: 20px;
-    margin-bottom: 20px;
-  
+    padding: 30px;
 }
 
 .represent {
