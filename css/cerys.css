@@ -73,7 +73,12 @@
 }
 
 .bicycles{
-    padding: 30px;
+    background-color: #eaeaea;
+    border-bottom: 5px #dcf0f1;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  
 }
 
 .represent {
